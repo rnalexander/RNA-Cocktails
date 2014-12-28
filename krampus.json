@@ -1,0 +1,41 @@
+{
+  title: "Krampus",
+  description: "Originally made for the Techsmas 2014 party which had a Fear and Loathing in Las Vegas Theme.
+
+This one is derived from the shooter I made for techsmas 2013 called Black Santa.  Inspiration
+drawn from:
+- Black Russian ( http://en.wikipedia.org/wiki/Black_Russian )
+- Coffee And Cigarettes ( http://www.gazregan.com/2013/12/101-best-new-cocktails/101-best-new-cocktais-coffee-cigarettes-by-jayce-kadyschuk-clives-classic-lounge-victoria-canada/ )
+- Chartreuse Hot Chocolate ( Made by the brilliant Felix Cohen of The Manhattans Project http://manhattansproject.com/ )",
+  ingredients: [
+    { 
+      name: "Cold Process Coffee",
+      amount: "30 ml"
+    },
+    {
+      name: "Kahula",
+      amount: "30 ml"
+    },
+    {
+      name: "dark rum",
+      amount: "30 ml"
+    },
+    {
+      name: "dark chocolate liqueur",
+      amount: "10 ml"
+    },
+    {
+      name: "chartreuse",
+      amount: "10 ml"
+    },
+    {
+      name: "amaro",
+      amount: "10ml"
+    },
+    {
+      name: "chocolate bitters",
+      amount: "1 dash"
+    }
+  ],
+  directions "Combine all over ice and stir, do not shake, until cold.  Makes roughtly 2 50ml shots"
+}
