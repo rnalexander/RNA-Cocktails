@@ -19,4 +19,4 @@ Ingredients
 - Amaro (10ml)
 - Chocolate Bitters (1 dash)
 
-Combine all over ice and stir, do not shake, until cold.  Makes roughtly 2 50ml shots
+Combine all over ice and stir, do not shake, until cold.  Makes roughly 2 50ml shots
