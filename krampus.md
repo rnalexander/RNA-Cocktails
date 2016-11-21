@@ -7,7 +7,7 @@ This one is derived from the shooter I made for techsmas 2013 called Black Santa
 drawn from:
 - Black Russian ( http://en.wikipedia.org/wiki/Black_Russian )
 - Coffee And Cigarettes ( http://www.gazregan.com/2013/12/101-best-new-cocktails/101-best-new-cocktais-coffee-cigarettes-by-jayce-kadyschuk-clives-classic-lounge-victoria-canada/ )
-- Chartreuse Hot Chocolate ( Made by the brilliant Felix Cohen of The Manhattans Project http://manhattansproject.com/ )
+- Chartreuse Hot Chocolate ( Made by the brilliant Felix Cohen of The Manhattans Project http://manhattansproject.com/ and Every Cloud http://everycloudbar.com/ )
 
 
 Ingredients
