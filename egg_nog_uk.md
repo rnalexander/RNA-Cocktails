@@ -12,10 +12,9 @@ Ingredients
 - 200g white sugar
 - Double Cream (300ml)
 - Whole Milk (450ml)
-- Dark Rum (125ml)
-- Brandy (125ml)
-- Bourbon (125ml)
-- Ground Nutmeg (1 tsp)
+- Brandy (200ml)
+- Bourbon (200ml)
+- Ground Nutmeg (1 tsp or buttloads)
 - Pinch of salt
 
 
