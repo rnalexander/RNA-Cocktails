@@ -12,7 +12,7 @@ drawn from:
 
 Ingredients
 - Cold Process Coffee (30 ml)
-- Kahula (30 ml)
+- Kahlua (30 ml)
 - Dark Rum (30 ml)
 - Dark Chocolate Liqueur (10 ml)
 - Chartreuse (10 ml)
